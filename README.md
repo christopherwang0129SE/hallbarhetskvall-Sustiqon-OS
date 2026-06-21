@@ -6,7 +6,7 @@ Built at the **Hållbarhetskväll** ("Sustainability Evening") hackathon. Sustiq
 small manufacturing workshop a single "operating system" view of its environmental impact —
 turning raw shop-floor sensor data into impact metrics, goals, and team gamification.
 
-> 📄 Prefer a one-page summary? See **[OVERVIEW.pdf](OVERVIEW.pdf)**.
+> 🔗 **[Live demo](https://christopherwang0129se.github.io/hallbarhetskvall-Sustiqon-OS/)** &nbsp;·&nbsp; 📄 Prefer a one-page summary? See **[OVERVIEW.pdf](OVERVIEW.pdf)**.
 
 ---
 
